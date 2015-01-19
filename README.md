@@ -19,4 +19,4 @@ Since the device is a HID device, the HID driver will bind to it. In order for
 the driver to work, you need to unbind from HID first. Another kernel patch for
 doing this is incoming, but if you want to test the patch earlier, then you can
 follow the instructions for example
-[here][https://github.com/vogelchr/led-notify-module].
+[here](https://github.com/vogelchr/led-notify-module).
